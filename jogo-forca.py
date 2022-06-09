@@ -2,8 +2,8 @@ import random
 import time
 
 print("Bem vindo ao jogo da forca!")
-palavras = ['aladdin', 'borboleta', 'pitaia', 'piscina', 'sorvete', 'biblioteca', 'rucula', 'saxofone', 'notebook', 'irlanda']
-dicas = ['personagem da disney','animal', 'fruta', 'lazer', 'sobremesa', 'lugar', 'verdura', 'instrumento musical', 'objeto', 'país']
+palavras = ['limonada', 'borboleta', 'maracuja', 'piscina', 'bombom', 'biblioteca', 'rucula', 'pijama', 'xícara', 'irlanda']
+dicas = ['bebida','animal', 'fruta', 'lazer', 'doce', 'lugar', 'verdura', 'roupa', 'objeto', 'país']
 lista_acertos = []
 lista_erros = []
 
